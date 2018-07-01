@@ -1,4 +1,4 @@
-# Twitter Sentiment  Anlyzer
+# Twitter Sentiment Analyzer
 
 ## Overview
 It will be able to classify the tweets as either positive or negative which contains the `input text`.
